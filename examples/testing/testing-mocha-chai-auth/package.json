@@ -33,7 +33,7 @@
     "feathers-mongoose": "^3.5.1",
     "feathers-rest": "^1.4.3",
     "mongoose": "^4.5.9",
-    "passport": "^0.3.2",
+    "passport": "^0.6.0",
     "serve-favicon": "^2.3.0",
     "winston": "^2.2.0"
   },
