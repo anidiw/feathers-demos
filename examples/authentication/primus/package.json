@@ -27,7 +27,7 @@
     "feathers-hooks": "^1.5.0",
     "feathers-memory": "^0.7.1",
     "feathers-primus": "^1.3.3",
-    "ws": "^1.1.0"
+    "ws": "^8.17.1"
   },
   "devDependencies": {}
 }
