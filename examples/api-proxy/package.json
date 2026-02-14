@@ -19,10 +19,10 @@
     "feathers-socketio": "^1.4.0",
     "react": "^15.0.2",
     "react-dom": "^15.0.2",
-    "request-promise": "^3.0.0",
+    "request-promise": "^4.2.6",
     "rxjs": "^5.0.0-beta.8",
     "socket.io-client": "^1.4.6",
-    "steal": "^0.16.12",
+    "steal": "^1.0.0",
     "steal-jsx": "0.0.2"
   }
 }
